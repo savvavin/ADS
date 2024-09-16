@@ -9,3 +9,7 @@
 # C
 
 ![C](https://github.com/user-attachments/assets/969a3053-63dc-4eed-a35a-b357659bc41c)
+
+# D
+
+![D](https://github.com/user-attachments/assets/029ec446-d485-41be-922c-d58da3b54122)
