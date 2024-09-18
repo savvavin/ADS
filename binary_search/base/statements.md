@@ -33,3 +33,7 @@
 # I. Отгадай число
 
 ![I](https://github.com/user-attachments/assets/5acd996c-f4c4-4617-8190-78b514b127b4)
+
+# J. Площадь
+
+![J](https://github.com/user-attachments/assets/033ec100-196e-433b-aeb6-8a91b6985d0d)
