@@ -37,3 +37,7 @@
 # J. Площадь
 
 ![J](https://github.com/user-attachments/assets/033ec100-196e-433b-aeb6-8a91b6985d0d)
+
+# K. Космическое поселение
+
+![K](https://github.com/user-attachments/assets/a9b2747f-d3c2-4250-a377-cb19ef01163b)
