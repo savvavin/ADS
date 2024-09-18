@@ -21,3 +21,7 @@
 # F. k-й ноль
 
 ![F](https://github.com/user-attachments/assets/4b99ea05-18aa-4747-93fa-621cf2f4ae1d)
+
+# G. Успраляющий совет
+
+![G](https://github.com/user-attachments/assets/a04046c4-976f-4a18-9fc4-b42b645a1c9c)
