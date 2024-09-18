@@ -17,3 +17,7 @@
 # E. Пруд
 
 ![E](https://github.com/user-attachments/assets/3c0c50dd-3342-4383-96e6-3f9f19d3cc55)
+
+# F. k-й ноль
+
+![F](https://github.com/user-attachments/assets/4b99ea05-18aa-4747-93fa-621cf2f4ae1d)
