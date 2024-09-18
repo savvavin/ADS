@@ -29,3 +29,7 @@
 # H. Веревочки
 
 ![H](https://github.com/user-attachments/assets/32b6084e-5553-4ef8-beeb-05c68c26529d)
+
+# I. Отгадай число
+
+![I](https://github.com/user-attachments/assets/5acd996c-f4c4-4617-8190-78b514b127b4)
