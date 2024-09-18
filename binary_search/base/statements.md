@@ -25,3 +25,7 @@
 # G. Успраляющий совет
 
 ![G](https://github.com/user-attachments/assets/a04046c4-976f-4a18-9fc4-b42b645a1c9c)
+
+# H. Веревочки
+
+![H](https://github.com/user-attachments/assets/32b6084e-5553-4ef8-beeb-05c68c26529d)
