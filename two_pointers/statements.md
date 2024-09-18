@@ -17,3 +17,7 @@
 # E. DZY любит последовательности
 
 ![E](https://github.com/user-attachments/assets/f0b6fba7-d838-4748-b137-a8ce121c6322)
+
+# F. Аппроксимизация постоянного диапазона
+
+![F](https://github.com/user-attachments/assets/9cb7d800-b21d-405b-9cee-d74fc51c2c62)
