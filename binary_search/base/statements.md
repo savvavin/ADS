@@ -41,3 +41,7 @@
 # K. Космическое поселение
 
 ![K](https://github.com/user-attachments/assets/a9b2747f-d3c2-4250-a377-cb19ef01163b)
+
+# L. Ночная работа
+
+![L](https://github.com/user-attachments/assets/923babaf-09a0-4254-b135-a9e0ef1207cc)
