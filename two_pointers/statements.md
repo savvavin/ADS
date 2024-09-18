@@ -13,3 +13,7 @@
 # D. Пара тем
 
 ![D](https://github.com/user-attachments/assets/3ddf4060-cac5-405a-9c4f-5762b9edf868)
+
+# E. DZY любит последовательности
+
+![E](https://github.com/user-attachments/assets/f0b6fba7-d838-4748-b137-a8ce121c6322)
