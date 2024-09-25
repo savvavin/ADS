@@ -38,3 +38,7 @@
 
 ![J](https://github.com/user-attachments/assets/72a7293e-4bed-430b-9ec3-470d2eece4c8)
 
+# K. Анаграммы
+
+![K](https://github.com/user-attachments/assets/2884c98b-887d-49be-bd2a-a7eafe27fcb3)
+
