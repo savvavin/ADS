@@ -42,3 +42,7 @@
 
 ![K](https://github.com/user-attachments/assets/2884c98b-887d-49be-bd2a-a7eafe27fcb3)
 
+# L. Кошмар в замке
+
+![L](https://github.com/user-attachments/assets/a1389540-69e1-4a59-9bde-2c1bab966d86)
+
