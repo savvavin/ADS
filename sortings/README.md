@@ -22,3 +22,7 @@
 
 ![F](https://github.com/user-attachments/assets/8e0d23f8-8bb4-47fe-b3ed-d67b8a5fb84e)
 
+# G. Инверсии
+
+![G](https://github.com/user-attachments/assets/7ae044a1-e219-404f-a549-3288885892f8)
+
