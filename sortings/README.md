@@ -46,3 +46,7 @@
 
 ![L](https://github.com/user-attachments/assets/a1389540-69e1-4a59-9bde-2c1bab966d86)
 
+# M. Число
+
+![M](https://github.com/user-attachments/assets/626f2654-0645-4b89-bc1e-8d41be439117)
+
