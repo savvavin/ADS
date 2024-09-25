@@ -9,3 +9,8 @@
 # C. Сортировка выбором
 
 ![C](https://github.com/user-attachments/assets/d4ae39e0-3235-44df-850f-f433f6ccfa52)
+
+# D. Сортировка подсчетом
+
+![D](https://github.com/user-attachments/assets/0c9ab193-a319-4b6f-a16d-b0d1ad2df56e)
+
