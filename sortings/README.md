@@ -26,3 +26,7 @@
 
 ![G](https://github.com/user-attachments/assets/7ae044a1-e219-404f-a549-3288885892f8)
 
+# H. Быстрая сортировка
+
+![H](https://github.com/user-attachments/assets/07634e14-2a77-4fbc-a3cf-ffc03d207c94)
+
