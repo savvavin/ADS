@@ -34,3 +34,7 @@
 
 ![I](https://github.com/user-attachments/assets/c4451934-511d-4143-94dd-c80c4f439113)
 
+# J. Результаты олимпиады
+
+![J](https://github.com/user-attachments/assets/72a7293e-4bed-430b-9ec3-470d2eece4c8)
+
