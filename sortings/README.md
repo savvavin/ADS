@@ -30,3 +30,7 @@
 
 ![H](https://github.com/user-attachments/assets/07634e14-2a77-4fbc-a3cf-ffc03d207c94)
 
+# I. $K$-ая порядковая статистика
+
+![I](https://github.com/user-attachments/assets/c4451934-511d-4143-94dd-c80c4f439113)
+
