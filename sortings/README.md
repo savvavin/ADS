@@ -18,3 +18,7 @@
 
 ![E](https://github.com/user-attachments/assets/790337b4-8edf-4b7b-b774-98120c9b3700)
 
+# F. Сортировка слиянием
+
+![F](https://github.com/user-attachments/assets/8e0d23f8-8bb4-47fe-b3ed-d67b8a5fb84e)
+
