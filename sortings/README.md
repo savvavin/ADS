@@ -6,3 +6,6 @@
 
 ![B](https://github.com/user-attachments/assets/3501ef87-7019-4cb6-b244-60de2b67184b)
 
+# C. Сортировка выбором
+
+![C](https://github.com/user-attachments/assets/d4ae39e0-3235-44df-850f-f433f6ccfa52)
