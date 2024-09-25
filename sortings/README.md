@@ -14,3 +14,7 @@
 
 ![D](https://github.com/user-attachments/assets/0c9ab193-a319-4b6f-a16d-b0d1ad2df56e)
 
+# E. Разброс
+
+![E](https://github.com/user-attachments/assets/790337b4-8edf-4b7b-b774-98120c9b3700)
+
