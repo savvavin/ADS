@@ -4,13 +4,10 @@ using namespace std;
 using ll = long long;
 using ld = long double;
 
-vector<ll> w(26);
+vector<ll> c(26);
 
-bool cmp(char &c1, char &c2) {
-    if (w[c1 - 'a'] == w[c2 - 'a']) {
-        return c2 > c1;
-    }
-    return w[c1 - 'a'] > w[c2 - 'a'];
+bool cmp(char &a, char &b) {
+    return c[a - 'a'] < c[b - 'a'];
 }
 
 int main() {
@@ -20,24 +17,36 @@ int main() {
     string s;
     cin >> s;
     for (ll i = 0; i < 26; ++i) {
-        cin >> w[i];
+        cin >> c[i];
     }
-    sort(s.begin(), s.end(), cmp);
-    string t, res;
-    for (ll i = 0; i < s.length() - 1; ++i) {
-        if (s[i] == s[i + 1] && (t.empty() || (!t.empty() && t[t.length() - 1] != s[i]))) {
-            t.push_back(s[i]);
-            ++i;
-        } else {
-            res.push_back(s[i]);
+    vector<char> v(26);
+    for (ll i = 0; i < 26; ++i) {
+        v[i] = i + 'a';
+    }
+    vector<ll> cnt(26);
+    for (ll i = 0; i < s.length(); ++i) {
+        ++cnt[s[i] - 'a'];
+    }
+    deque<char> res;
+    for (ll i = 0; i < 26; ++i) {
+        while (cnt[i] > 2) {
+            res.push_back(i + 'a');
+            --cnt[i];
+        }
+        if (cnt[i] == 1) {
+            res.push_back(i + 'a');
+            --cnt[i];
         }
     }
-    if (s.length() > res.length() + 2 * t.length()) {
-        res.push_back(s[s.length() - 1]);
+    sort(v.begin(), v.end(), cmp);
+    for (ll i = 0; i < 26; ++i) {
+        if (cnt[v[i] - 'a'] == 2) {
+            res.push_front(v[i]);
+            res.push_back(v[i]);
+        }
     }
-    cout << t << res;
-    for (ll i = t.length() - 1; i >= 0; --i) {
-        cout << t[i];
+    for (auto x : res) {
+        cout << x;
     }
 
     return 0;
