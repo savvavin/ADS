@@ -21,3 +21,7 @@
 # F. Аппроксимизация постоянного диапазона
 
 ![F](https://github.com/user-attachments/assets/9cb7d800-b21d-405b-9cee-d74fc51c2c62)
+
+# G. Наидлиннейший k-хороший подотрезок
+
+![G](https://github.com/user-attachments/assets/97b6e381-43f5-4d8b-8feb-6620e0b66e4f)
