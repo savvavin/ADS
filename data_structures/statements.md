@@ -24,3 +24,7 @@
 ![E](https://github.com/user-attachments/assets/f66b1d22-6751-4268-9b6a-444c1b6d94f6)
 ![E](https://github.com/user-attachments/assets/398386f7-6975-494e-a970-85b83cce3bc1)
 
+# F. Гемоглобин
+
+![F](https://github.com/user-attachments/assets/9b855f5a-3f44-405d-89a3-9f18368b0107)
+
