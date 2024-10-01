@@ -19,3 +19,8 @@
 ![D](https://github.com/user-attachments/assets/a7022808-0cd6-4fd7-a4e8-faaaea6df844)
 ![D](https://github.com/user-attachments/assets/e1d6733a-44bb-4e4f-9210-b577f24b94e3)
 
+# E. Трамвай
+
+![E](https://github.com/user-attachments/assets/f66b1d22-6751-4268-9b6a-444c1b6d94f6)
+![E](https://github.com/user-attachments/assets/398386f7-6975-494e-a970-85b83cce3bc1)
+
