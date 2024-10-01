@@ -28,3 +28,9 @@
 
 ![F](https://github.com/user-attachments/assets/9b855f5a-3f44-405d-89a3-9f18368b0107)
 
+# G. Ладьи-защитники
+
+![G](https://github.com/user-attachments/assets/7462f4f5-7a65-44a8-9e49-00c43c19f5bc)
+![G](https://github.com/user-attachments/assets/4d61d770-2dc2-4c82-91c4-f5a23c9b2c73)
+
+
