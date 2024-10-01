@@ -33,4 +33,8 @@
 ![G](https://github.com/user-attachments/assets/7462f4f5-7a65-44a8-9e49-00c43c19f5bc)
 ![G](https://github.com/user-attachments/assets/4d61d770-2dc2-4c82-91c4-f5a23c9b2c73)
 
+# H. Гоблины и очереди
+
+![H](https://github.com/user-attachments/assets/985f05ca-1a97-4362-82ee-fca77a59ad1f)
+![H](https://github.com/user-attachments/assets/4da2454a-e7af-4303-be93-f19b70fa2f36)
 
