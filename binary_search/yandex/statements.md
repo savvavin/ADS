@@ -35,3 +35,7 @@
 # I. Вырубка леса
 
 ![I](https://github.com/user-attachments/assets/6b525000-8493-4438-a012-706ccad6f013)
+
+# J. K-Best
+
+![J](https://github.com/user-attachments/assets/78e0a665-1cc8-412f-87ff-52abec03f68f)
