@@ -23,3 +23,7 @@
 # F. Очень Легкая Задача
 
 ![F](https://github.com/user-attachments/assets/1e3f1784-7c13-4c44-89c1-b300011cfdf6)
+
+# G. Провода
+
+![G](https://github.com/user-attachments/assets/8fb88207-1b48-4eaf-bd06-61279c168810)
