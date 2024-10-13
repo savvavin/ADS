@@ -15,3 +15,7 @@
 
 ![D](https://github.com/user-attachments/assets/8c9c1ac5-989a-4cc0-8f86-64cf66eda10e)
 ![D](https://github.com/user-attachments/assets/a09448f4-0bdc-476d-b0a1-2761f4631f81)
+
+# E. Поиск позиции
+
+![E](https://github.com/user-attachments/assets/e3d7a377-0d96-438c-8076-09679f96cbdd)
