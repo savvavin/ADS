@@ -39,3 +39,9 @@
 # J. K-Best
 
 ![J](https://github.com/user-attachments/assets/78e0a665-1cc8-412f-87ff-52abec03f68f)
+
+# K. Одинокое число
+
+![K](https://github.com/user-attachments/assets/9ae851a3-1b84-41f8-92e1-40cc67246fc3)
+![K](https://github.com/user-attachments/assets/d6436a47-bf97-4709-894a-27f4143cb2c1)
+
