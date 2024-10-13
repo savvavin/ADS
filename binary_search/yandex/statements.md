@@ -45,3 +45,8 @@
 ![K](https://github.com/user-attachments/assets/9ae851a3-1b84-41f8-92e1-40cc67246fc3)
 ![K](https://github.com/user-attachments/assets/d6436a47-bf97-4709-894a-27f4143cb2c1)
 
+# L. Oracle соло мид
+
+![L](https://github.com/user-attachments/assets/3a4cb0dd-d963-430d-bd9d-eb3e919b37d2)
+![L](https://github.com/user-attachments/assets/6fbed26e-f99d-41ae-874b-b81a74004a19)
+
