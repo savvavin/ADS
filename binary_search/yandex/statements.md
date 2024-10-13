@@ -31,3 +31,7 @@
 # H. Космическое поселение
 
 ![H](https://github.com/user-attachments/assets/79781103-f0c8-4d1b-b027-abde52549211)
+
+# I. Вырубка леса
+
+![I](https://github.com/user-attachments/assets/6b525000-8493-4438-a012-706ccad6f013)
