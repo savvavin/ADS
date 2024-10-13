@@ -50,3 +50,6 @@
 ![L](https://github.com/user-attachments/assets/3a4cb0dd-d963-430d-bd9d-eb3e919b37d2)
 ![L](https://github.com/user-attachments/assets/6fbed26e-f99d-41ae-874b-b81a74004a19)
 
+# M. Дипломы
+
+![M](https://github.com/user-attachments/assets/6863d0bf-3f0c-48e8-97ac-4980cbe00ac8)
