@@ -19,3 +19,7 @@
 # E. Поиск позиции
 
 ![E](https://github.com/user-attachments/assets/e3d7a377-0d96-438c-8076-09679f96cbdd)
+
+# F. Очень Легкая Задача
+
+![F](https://github.com/user-attachments/assets/1e3f1784-7c13-4c44-89c1-b300011cfdf6)
