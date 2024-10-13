@@ -27,3 +27,7 @@
 # G. Провода
 
 ![G](https://github.com/user-attachments/assets/8fb88207-1b48-4eaf-bd06-61279c168810)
+
+# H. Космическое поселение
+
+![H](https://github.com/user-attachments/assets/79781103-f0c8-4d1b-b027-abde52549211)
