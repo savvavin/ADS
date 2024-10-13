@@ -10,3 +10,8 @@
 
 ![C](https://github.com/user-attachments/assets/b31e734e-e7cf-48d2-8837-7ef44658ea23)
 ![C](https://github.com/user-attachments/assets/b864bc64-432b-4a9c-9c70-03f0203cb2e3)
+
+# D. Минимизируем максимум
+
+![D](https://github.com/user-attachments/assets/8c9c1ac5-989a-4cc0-8f86-64cf66eda10e)
+![D](https://github.com/user-attachments/assets/a09448f4-0bdc-476d-b0a1-2761f4631f81)
